@@ -1,4 +1,2 @@
-# hello-world
-first repository
 
-likes: running and coding
+I will store my codewar kata codes here :->
